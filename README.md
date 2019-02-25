@@ -7,7 +7,7 @@ apt install git
 
 apt install python 
 
-git clone https://github.com/H4CK3RT/Social-Fish
+git clone https://github.com/H4CK3RT/SOCIAL-FISH.git
 
 cd Social-Fish
 
